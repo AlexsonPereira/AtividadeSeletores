@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600&display=swap');
+
+body{
+  font-family: 'Poppins', sans-serif;
+  width: 100vw;
+  margin: 0;
+  padding: 0;
+  margin-left: 16px;
+}
+
+.cabecalho{
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 48px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+#chamada{
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 0em;
+  text-align: left;
+
+}
+
+.seccao_transforme > h2 {
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 48px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.seccao_transforme > p > a{
+  color:#3662FF ;
+}
+  
+
+
+#color_blue{
+  color: #3662FF;
+}
+
+#saiba_mais{
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 0em;
+  text-align: left;
+
+}
+
+.sobre_nos > h2{
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 48px;
+  letter-spacing: 0em;
+  text-align: left;
+
+}
+
+.artigo{
+  width: 97vw;
+  background-color: #3662FF;
+  color: white;
+  
+}
+
+#text_1{
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 40px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+#text_2{
+font-size: 20px;
+font-weight: 400;
+line-height: 40px;
+letter-spacing: 0em;
+text-align: left;
+}
+
+.artigo > div{
+  padding: 8px;
+}
+
+.list > h2{
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 48px;
+  letter-spacing: 0em;
+  text-align: left;
+
+}
+
+.list > ol{
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 40px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: black;
+}
+
+.list > ol > li > a{
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 40px;
+  letter-spacing: 0em;
+  color: black;  
+}
+
+.final{
+  width: 97vw;
+  background-color: black;
+  color: white;
+}
+
+.final > p {
+text-align: center;
+padding: 15px;
+font-size: 20px;
+font-weight: 400;
+line-height: 40px;
+letter-spacing: 0em;
+}
+
